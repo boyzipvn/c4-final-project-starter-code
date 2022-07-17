@@ -3,5 +3,5 @@
  */
 export interface CreateTodoRequest {
   name: string
-  dueDate: string
+  deadline: string
 }
